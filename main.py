@@ -296,7 +296,7 @@ async def status(bot, update):
 
 async def ForceSub(bot: Client, event: Message):
     """
-    Custom Pyrogram Based Telegram Bot's Force Subscribe Function by @The_Shikarii.
+    Custom Pyrogram Based Telegram Bot's Force Subscribe Function by @The_SHIKARI_Network.
     If User is not Joined Force Sub Channel Bot to Send a Message & ask him to Join First.
     
     :param bot: Pass Client.
