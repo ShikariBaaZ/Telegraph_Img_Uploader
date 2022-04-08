@@ -14,10 +14,17 @@
 5. `DATABASE_URL`: MongoDB URL Get from [here](https://www.mongodb.com/)
 6. `UPDATE_CHANNEL`: ID of channel. Without subscribing this channel users cannot use bot.
 
-## Deploy to heroku 🗳
-Press the button Deploy to heroku and give the values for the Creds vars. 👇
+### Deploy
 
-[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/ShikariBaaZ/Telegraph_Img_Uploader/tree/master)
+<details><summary><b>Deploy to Heroku</b></summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/ShikariBaaZ/Telegraph_Img_Uploaderr">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 
 ### Deploy in your VPS
 ```sh
